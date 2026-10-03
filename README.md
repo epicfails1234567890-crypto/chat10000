@@ -1,1 +1,1 @@
-# chat10000
+# chat hecho con peer.js y surge.sh
