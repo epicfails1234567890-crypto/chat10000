@@ -1,1 +1,1 @@
-# chat hecho con peer.js y surge.sh
+# chat hecho y reformado con peer.js y surge.sh
